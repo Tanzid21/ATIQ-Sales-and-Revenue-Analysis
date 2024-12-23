@@ -1,4 +1,4 @@
-# ATIQ-End-to-End Sales-and-Revenue-Analysis
+# ATLIQ-End-to-End Sales-and-Revenue-Analysis
 
 
 
